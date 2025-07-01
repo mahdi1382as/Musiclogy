@@ -61,7 +61,7 @@ project-v5-dark/
 
 1. فایل را از این مخزن کلون یا دانلود کنید:
 ```bash
-git clone https://github.com/username/project-v5-dark.git
+git clone https://github.com/mahdi1382as/Musiclogy
 ```
 
 2. وارد پوشه پروژه شوید و فایل `index.html` را با مرورگر باز کنید:
