@@ -405,7 +405,7 @@ body>header{
     border-radius: .5em;
 }
 
-.post > div b, .post > div strong ,.post >div p {
+.post > div b, .post > div strong ,div p {
     font-weight: 700;
     color: #F5E8C7;
 }
