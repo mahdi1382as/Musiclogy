@@ -718,3 +718,8 @@ body>footer{
     display: flex;
     justify-content: left;
 }
+.post>div, .navbar-left section ul, .hp1, .upfix, .upykta, .other-artis, .coment, .upsngm {
+    background: #241f42;
+    border: 2px solid #fff;
+    border-radius: .5em;
+}
